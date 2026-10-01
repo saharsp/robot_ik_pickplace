@@ -17,8 +17,8 @@ setup(
     ],
     install_requires=["setuptools", "numpy"],
     zip_safe=True,
-    maintainer="Your Name",
-    maintainer_email="you@example.com",
+    maintainer="Sahar",
+    #maintainer_email="",
     description=(
         "From-scratch IK + simulated pick-and-place demo for a 6-DOF arm, "
         "built to bridge ABB/KUKA robot programming into ROS2/Python."
