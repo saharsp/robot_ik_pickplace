@@ -3,8 +3,7 @@
 A from-scratch inverse kinematics solver and simulated pick-and-place
 controller for a 6-DOF arm, built in Python and wired into ROS2.
 
-**Why this project exists:** I spent 5 years programming ABB and KUKA
-robots (RAPID/KRL) for pick-and-place and welding cells, using each
+**Why this project exists:** I spent few years programming industrial robots for different applications, some complex, using each
 vendor's built-in kinematics solver and motion instructions. This project
 reimplements that same kind of task — move to a pose, grasp, move to
 another pose — but with the forward/inverse kinematics, the Jacobian, and
