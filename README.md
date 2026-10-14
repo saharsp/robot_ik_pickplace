@@ -54,12 +54,7 @@ ros2 run robot_ik_pickplace pick_place_demo
 In RViz2, add a `RobotModel` display (topic: `robot_description`) and a
 `TF` display to watch the arm move.
 
-## What to build next
 
-Swap in a real robot's URDF (e.g. `ur_description` for a UR5) and update
-`DEFAULT_DH_TABLE` to match · add Gazebo for real physics · compare
-against MoveIt2's IK/planning stack · port the solver to C++ (`rclcpp`)
-· write an analytical IK solver for this geometry.
 
 ## Notes
 
