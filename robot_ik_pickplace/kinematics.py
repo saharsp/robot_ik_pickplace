@@ -12,7 +12,7 @@ math testable outside the middleware.
 DH convention used (standard, not "modified"):
     A_i = Rot_z(theta_i) * Trans_z(d_i) * Trans_x(a_i) * Rot_x(alpha_i)
 
-Author: <your name> -- built as a portfolio project translating ABB/KUKA
+Author: <Sahar> -- built as a portfolio project translating ABB/KUKA
 robot programming experience into from-scratch robotics software.
 """
 
